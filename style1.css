@@ -1,0 +1,54 @@
+.card {
+  position: absolute;
+  background-color: gray;
+  align-items: center;
+}
+.imgborder {
+  position: relative;
+  height: 80%;
+  width: 40%;
+  background-color: gray;
+}
+.img1 {
+  height: 100%;
+  width: 100%;
+}
+.card-title {
+  color: white;
+}
+.card-text {
+  color: white;
+}
+.screen {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  margin-left: 10vw;
+  margin-right: 10vw;
+  margin-top: 10vh;
+  margin-bottom: 10vh;
+  align-self: center;
+  background-color: white;
+  contain: content;
+}
+.class1 {
+  display: flex;
+  align-self: flex-end;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
